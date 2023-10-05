@@ -1,0 +1,22 @@
+{
+  "name": "node_markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wunna145/node_markov.git"
+  },
+  "author": "ZW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wunna145/node_markov/issues"
+  },
+  "homepage": "https://github.com/wunna145/node_markov#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
